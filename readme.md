@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Proshooter27](https://github.com/Proshooter27)
+* Keyboard Maintainer: [SirAxolott](https://github.com/SirAxolott)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 

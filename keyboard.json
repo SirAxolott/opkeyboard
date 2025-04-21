@@ -1,7 +1,7 @@
 {
-    "manufacturer": "Proshooter27",
+    "manufacturer": "SirAxolott",
     "keyboard_name": "opkeyboard",
-    "maintainer": "Proshooter27",
+    "maintainer": "SirAxolott",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
