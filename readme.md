@@ -1,6 +1,6 @@
 # opkeyboard
 
-![opkeyboard](https://imgur.com/a/XxZs3jf)
+[opkeyboard](https://imgur.com/a/XxZs3jf)
 
 *A short description of the keyboard/project*
 
